@@ -8,7 +8,7 @@ class BaseChefGPT:
 
     def run(self, user_input = None):        
         if user_input is None:
-            print("\n")
+            print("")
             user_input = input("How can " + self.name + " assist you today?\n")
     
         model = "gpt-3.5-turbo"
@@ -39,9 +39,10 @@ class BaseChefGPT:
                     "content": collected_string
                 }
             )
-            if (not "try again" in collected_string.lower()):
+            if (not "?" in collected_string.lower()):
                 break
             else:
+                print("")
                 user_input = input()
 
                 
