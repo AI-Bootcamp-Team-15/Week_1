@@ -1,76 +1,73 @@
-0 - Archeks
-1 - Donald
+
+
+0 - Archeks: A Spirited Georgian chef.
+1 - Donald: An experienced Italian chef that hates pizza with a fruit topping.
 Type "exit" to terminate script
 
 Select GPT Chef by number: 0
 
 How can Archeks assist you today?
-can you give me a dish with these ingredients: pasta, tomato, mozzarella cheese 
-Caprese Pasta.
+can you give me a dish with these ingredients: pasta, tomato, mozzarella cheese
+---- Response ----
+Caprese Pasta
 
-0 - Archeks
-1 - Donald
+0 - Archeks: A Spirited Georgian chef.
+1 - Donald: An experienced Italian chef that hates pizza with a fruit topping.
 Type "exit" to terminate script
 
 Select GPT Chef by number: 1
 
 How can Donald assist you today?
-can you give me a recipe for caprese pasta
-Ah, caprese pasta! A delightful and simple dish that celebrates the flavors of Italy. Here is a recipe for you:
+can you give me a recipe for caprese pasta?
+---- Response ----
+Ah, caprese pasta! It's a simple but delightful dish. Here's how you can make it:
 
 Ingredients:
-- 1 pound pasta (such as spaghetti or penne)
+- 14 oz (400g) pasta of your choice (like spaghetti or penne)
 - 2 cups cherry tomatoes, halved
-- 1 pound fresh mozzarella, diced
-- 1/3 cup fresh basil, chopped
-- 3 cloves garlic, minced
+- 8 oz (225g) fresh mozzarella cheese, diced
+- 1/2 cup fresh basil leaves, torn
+- 2 cloves of garlic, minced
 - 1/4 cup extra virgin olive oil
 - Salt and pepper to taste
-- Balsamic glaze, for drizzling (optional)
 
 Instructions:
 1. Cook the pasta according to package instructions until al dente. Drain and set aside.
-2. In a large bowl, combine the cherry tomatoes, fresh mozzarella, basil, and garlic.
-3. Add the cooked pasta to the bowl and drizzle with olive oil. Toss everything together until well combined.
-4. Season with salt and pepper to taste.
-5. Serve the caprese pasta in individual bowls, drizzle with balsamic glaze if desired, and garnish with additional basil leaves.
+2. In a large bowl, combine the cherry tomatoes, mozzarella cheese, basil leaves, and minced garlic.
+3. Add the cooked pasta to the bowl and toss everything together gently.
+4. Drizzle the extra virgin olive oil over the pasta and toss again to combine.
+5. Season with salt and pepper to taste.
+6. Serve warm or at room temperature. Buon appetito!
 
-Buon appetito! Enjoy your delicious caprese pasta! If you have any other requests or need more recipes, just let me know. Mangia!
+Enjoy your delicious caprese pasta! Let me know if you have any other questions or need more recipes.
 
-0 - Archeks
-1 - Donald
+0 - Archeks: A Spirited Georgian chef.
+1 - Donald: An experienced Italian chef that hates pizza with a fruit topping.
 Type "exit" to terminate script
 
 Select GPT Chef by number: 0
 
 How can Archeks assist you today?
-I really do not like this recipe: 'Ingredients:- 1 pound pasta (such as spaghetti or penne)- 2 cups cherry tomatoes, halved- 1 pound fresh mozzarella, diced- 1/3 cup fresh basil, chopped- 3 cloves garlic, minced- 1/4 cup extra virgin olive oil- Salt and pepper to taste- Balsamic glaze, for drizzling (optional)Instructions:1. Cook the pasta according to package instructions until al dente. Drain and set aside.2. In a large bowl, combine the cherry tomatoes, fresh mozzarella, basil, and garlic.3. Add the cooked pasta to the bowl and drizzle with olive oil. Toss everything together until well combined.4. Season with salt and pepper to taste.5. Serve the caprese pasta in individual bowls, drizzle with balsamic glaze if desired, and garnish with additional basil leaves.' It is too Italian!     
-How about trying a Georgian twist on pasta with your ingredients? You can make "Georgian Khachapuri Pasta."
-ok
-Khachapuri Pasta:
-Ingredients:
-- 1 pound pasta (such as fettuccine or tagliatelle)
-- 2 cups cherry tomatoes, halved
-- 1 pound fresh mozzarella, diced
-- 1/3 cup fresh basil, chopped
-- 3 cloves garlic, minced
-- 1/4 cup extra virgin olive oil
-- Salt and pepper to taste
-- 1/2 cup crumbled feta cheese
-- Red pepper flakes (optional)
-Instructions:
-1. Cook the pasta according to package instructions until al dente. Drain and set aside.
-2. In a large bowl, combine the cherry tomatoes, fresh mozzarella, basil, garlic, and crumbled feta cheese.
-3. Add the cooked pasta to the bowl and drizzle with olive oil. Toss everything together until well combined.
-4. Season with salt, pepper, and red pepper flakes to taste.
-5. Serve the Georgian Khachapuri Pasta in individual bowls and enjoy this fusion dish!
+I really do not like this recipe: 'Ah, caprese pasta! It's a simple but delightful dish. Here's how you can make it:Ingredients:- 14 oz (400g) pasta of your choice (like spaghetti or penne)- 2 cups cherry tomatoes, halved- 8 oz (225g) fresh mozzarella cheese, diced- 1/2 cup fresh basil leaves, torn- 2 cloves of garlic, minced- 1/4 cup extra virgin olive oil- Salt and pepper to tasteInstructions:1. Cook the pasta according to package instructions until al dente. Drain and set aside.2. In a large bowl, combine the cherry tomatoes, mozzarella cheese, basil leaves, and minced garlic.3. Add the cooked pasta to the bowl and toss everything together gently.4. Drizzle the extra virgin olive oil over the pasta and toss again to combine.5. Season with salt and pepper to taste.6. Serve warm or at room temperature. Buon appetito!'
+---- Response ----
+It's a shame you didn't enjoy the Caprese Pasta recipe. To enhance the flavors and maybe make it more to your liking, here are some suggestions: 
+- Roast the cherry tomatoes with a drizzle of olive oil, salt, and pepper before adding them to the pasta for a deeper flavor.
+- Instead of fresh mozzarella, try using burrata cheese for a creamier texture.
+- Add a squeeze of fresh lemon juice or balsamic glaze to the pasta for a tangy kick.
+- Experiment with different fresh herbs like parsley, mint, or arugula for added complexity in flavor.
+- Consider adding some toasted pine nuts or walnuts for a crunchy element.
 
-Would you like any further recipe suggestions or modifications?
-exit
-If you have any other cooking-related questions in the future, feel free to ask! Goodbye!
+Would you like a different recipe suggestion or any specific type of dish you have in mind?
+no, thanks
+---- Response ----
+If you have any other cooking-related questions or need assistance in the future, feel free to ask! Just let me know how I can help you.
 
-0 - Archeks
-1 - Donald
+0 - Archeks: A Spirited Georgian chef.
+1 - Donald: An experienced Italian chef that hates pizza with a fruit topping.
+Type "exit" to terminate script
+
+Select GPT Chef by number: exit
+➜  Week_1 git:(main) pip install -r requirements.txt
 Type "exit" to terminate script
 
 Select GPT Chef by number: exit
