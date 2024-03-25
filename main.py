@@ -1,6 +1,7 @@
 from ArcheksChef import ArcheksChef
+from ChefGPT-Adwit import ChefGPT-Adwit
 
-chefs = [ArcheksChef()]
+chefs = [ArcheksChef(), ChefGPT-Adwit()]
 
 
 while True:
