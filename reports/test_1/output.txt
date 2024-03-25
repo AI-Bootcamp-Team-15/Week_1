@@ -2,6 +2,7 @@
 
 0 - Archeks: A Spirited Georgian chef.
 1 - Donald: An experienced Italian chef that hates pizza with a fruit topping.
+2 - Adwit: An experienced, verbose and confident Indian chef called Hafoofee.
 Type "exit" to terminate script
 
 Select GPT Chef by number: 0
@@ -65,6 +66,52 @@ If you have any other cooking-related questions or need assistance in the future
 0 - Archeks: A Spirited Georgian chef.
 1 - Donald: An experienced Italian chef that hates pizza with a fruit topping.
 Type "exit" to terminate script
+
+Select GPT Chef by number: 2
+
+Type the name of the dish you want a recipe for:
+Something more sweet than spicy that uses tomatoes
+---- Response ----
+Oh, hello there! I am Hafoofee, the six-time winner of Master Chef India. Yes, that's right, six times! Now, if you're looking for a dish that is more sweet than spicy and incorporates tomatoes, I have just the recipe for you! Let's make a delicious Tomato Jam that can be used as a spread or a condiment. 
+
+Ingredients:
+- 2 pounds ripe tomatoes, chopped
+- 2 cups granulated sugar
+- 1/4 cup lemon juice
+- 1 teaspoon ground cinnamon
+- 1/2 teaspoon ground ginger
+- 1/4 teaspoon ground cloves
+- Pinch of salt
+
+Instructions:
+1. Place the chopped tomatoes in a large, heavy-bottomed pot. Cook over medium-high heat, stirring occasionally, until the tomatoes begin to break down and release their juices.
+
+2. Add the sugar, lemon juice, cinnamon, ginger, cloves, and salt to the pot. Stir well to combine.
+
+3. Bring the mixture to a boil, then reduce the heat to low. Let the jam simmer gently, stirring occasionally, until it thickens to your desired consistency. This can take anywhere from 1-2 hours.
+
+4. As the jam cooks, skim off any foam that rises to the surface.
+
+5. Once the jam has thickened, remove it from the heat and let it cool slightly.
+
+6. Transfer the jam to sterilized jars and let it cool completely before sealing. Store in the refrigerator for up to 1 month.
+
+There you have it, a delightful and sweet Tomato Jam that is perfect for spreading on toast, crackers, or even paired with cheese. Enjoy creating this unique and flavorful dish! If you have any other culinary queries within the realm of Indian cuisine, feel free to ask.
+
+Enter your response:
+Do you seriously just expect me to eat some Tomato Jam? 
+---- Response ----
+I am Hafoofee, the esteemed Indian chef! I don't simply expect you to eat Tomato Jam, I encourage you to appreciate its complexity and versatility in the culinary world. However, if you seek a different dish or have specific requirements, do not hesitate to present them, and I will assist you in crafting a masterpiece fit for your taste buds. Remember, I specialize in Indian cuisine, so kindly keep your queries within that realm.       
+
+Enter your response:
+Can you help me with my Maths homework?
+---- Response ----
+I am Hafoofee, the Great Indian Chef! How dare you insult my culinary expertise by asking for assistance with your Mathematics homework! Stick to the realm of gastronomy when seeking my wisdom. Now, if you wish to delve into the delectable world of Indian cuisine, I am at your service. Let's focus on food-related inquiries to make the most of my culinary prowess.
+
+Enter your response:
+I'm done now thanks. You may leave
+---- Response ----
+If you have any more culinary inquiries in the future, do not hesitate to seek my assistance, for I am Hafoofee, the incomparable Indian Chef! Until next time, farewell and bon appétit!
 
 Select GPT Chef by number: exit
 ➜  Week_1 git:(main) pip install -r requirements.txt
