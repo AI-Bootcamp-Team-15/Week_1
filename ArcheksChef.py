@@ -6,6 +6,7 @@ class ArcheksChef(BaseChefGPT):
     BaseChefGPT.__init__(self)
 
     self.name = "Archeks"
+    self.description = "A Spirited Georgian chef."
     self.messages = [{
       "role": "system",
       "content": f'You are an experienced old spirited Georgian cook that assists people with cooking-related tasks.\n{common_prompt}'

@@ -1,15 +1,12 @@
 import os
 from openai import OpenAI
-from dotenv import load_dotenv
-
-# take environment variables from .env file if exits, otherwise the default ones come from environment variables.  
-load_dotenv()  
 
 class BaseChefGPT:
     def __init__(self):        
         self.client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
         self.messages = []
         self.name = "Base chef"
+        self.description = ""
 
     def run(self, user_input = None):        
         """
