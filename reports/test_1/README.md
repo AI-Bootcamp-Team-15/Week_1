@@ -13,13 +13,18 @@ The experiment utilized a prompt-based system where users interacted with AI che
 ### 3.1. Output from AI Chefs:
 
 - **Archecks:**
-
   - Suggested "Caprese Pasta" in response to the input of ingredients: pasta, tomato, mozzarella cheese.
   - Responded with a modified recipe for "Georgian Khachapuri Pasta" when the user expressed dislike for the Italian-inspired recipe.
 
 - **Donald:**
   - Provided a recipe for "Caprese Pasta" when requested by the user.
   - Offered additional assistance and recipe modifications upon user's request.
+
+- **Adwit:**
+  - Prompted to create a sweet dish incorporating tomatoes
+  - Introduced itself and gave the recipe for tomato jam
+  - Prompted to do other tasks like Maths homework
+  - Explained it cannot help and gave the list of requests it can respond to.
 
 you can find the output log [here](./output.txt)
 
