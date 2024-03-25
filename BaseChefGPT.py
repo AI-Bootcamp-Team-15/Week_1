@@ -2,7 +2,8 @@ import os
 from openai import OpenAI
 from dotenv import load_dotenv
 
-load_dotenv()  # take environment variables from .env.
+# take environment variables from .env file if exits, otherwise the default ones come from environment variables.  
+load_dotenv()  
 
 class BaseChefGPT:
     def __init__(self):        
@@ -11,6 +12,15 @@ class BaseChefGPT:
         self.name = "Base chef"
 
     def run(self, user_input = None):        
+        """
+        A function that runs a chatbot using the specified model to respond to user input.
+        
+        Parameters:
+            user_input (str): The user input to be used in the conversation. Defaults to None.
+        
+        Returns:
+            str: The collected conversation string.
+        """
         if user_input is None:
             print("")
             user_input = input("How can " + self.name + " assist you today?\n")
