@@ -1,8 +1,12 @@
+import os
 from openai import OpenAI
+from dotenv import load_dotenv
+
+load_dotenv()  # take environment variables from .env.
 
 class BaseChefGPT:
     def __init__(self):        
-        self.client = OpenAI()
+        self.client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
         self.messages = []
         self.name = "Base chef"
 

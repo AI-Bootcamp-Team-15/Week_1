@@ -11,7 +11,7 @@ while True:
 
     print('Type "exit" to terminate script\n')
 
-    chefNumber = input("Select GPT Chef by number:\n")
+    chefNumber = input("Select GPT Chef by number: ")
     if  chefNumber.isnumeric() and int(chefNumber) in range(len(chefs)):
         chefs[int(chefNumber)].run()
     else:
