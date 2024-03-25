@@ -1,8 +1,8 @@
 from ArcheksChef import ArcheksChef
-from ChefGPT-Adwit import ChefGPT-Adwit
+from DonaldChef import DonaldChef
+# from ChefGPT-Adwit import ChefGPT-Adwit
 
-chefs = [ArcheksChef(), ChefGPT-Adwit()]
-
+chefs = [ArcheksChef(), DonaldChef()]
 
 while True:
     print("\n")
@@ -13,8 +13,8 @@ while True:
 
     chefNumber = input("Select GPT Chef by number:\n")
     if  chefNumber.isnumeric() and int(chefNumber) in range(len(chefs)):
-        chefs[i].run()
+        chefs[int(chefNumber)].run()
     else:
         if chefNumber=="exit":
             break;
-        print("Wrong number\n")
+        print("Wrong number. Can you please try again?\n")

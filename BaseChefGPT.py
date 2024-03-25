@@ -45,5 +45,4 @@ class BaseChefGPT:
                 print("")
                 user_input = input()
 
-                
         return collected_string
