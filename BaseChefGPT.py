@@ -38,6 +38,7 @@ class BaseChefGPT:
                 stream=True,
             )
             collected_messages = []
+            print("---- Response ----")
             for chunk in stream:
                 chunk_message = chunk.choices[0].delta.content or ""
                 print(chunk_message, end="")
