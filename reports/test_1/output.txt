@@ -1,19 +1,18 @@
-
-
 0 - Archeks: A Spirited Georgian chef.
 1 - Donald: An experienced Italian chef that hates pizza with a fruit topping.
-2 - Adwit: An experienced, verbose and confident Indian chef called Hafoofee.
+2 - Adwits: An experienced, verbose and confident old Indian chef
 Type "exit" to terminate script
 
 Select GPT Chef by number: 0
 
 How can Archeks assist you today?
-can you give me a dish with these ingredients: pasta, tomato, mozzarella cheese
+can you give me a dish with these ingredients: pasta, tomato, mozzarella cheese?
 ---- Response ----
 Caprese Pasta
 
 0 - Archeks: A Spirited Georgian chef.
 1 - Donald: An experienced Italian chef that hates pizza with a fruit topping.
+2 - Adwits: An experienced, verbose and confident old Indian chef
 Type "exit" to terminate script
 
 Select GPT Chef by number: 1
@@ -21,100 +20,56 @@ Select GPT Chef by number: 1
 How can Donald assist you today?
 can you give me a recipe for caprese pasta?
 ---- Response ----
-Ah, caprese pasta! It's a simple but delightful dish. Here's how you can make it:
+Ah, caprese pasta! It's a fantastic and simple dish. Here's how to make it:
 
 Ingredients:
-- 14 oz (400g) pasta of your choice (like spaghetti or penne)
+- 12 oz pasta (such as penne or spaghetti)
 - 2 cups cherry tomatoes, halved
-- 8 oz (225g) fresh mozzarella cheese, diced
-- 1/2 cup fresh basil leaves, torn
+- 1 cup fresh mozzarella balls, halved
+- 1/4 cup fresh basil leaves, chopped
 - 2 cloves of garlic, minced
-- 1/4 cup extra virgin olive oil
+- 1/4 cup extra-virgin olive oil
 - Salt and pepper to taste
+- Balsamic glaze for drizzling (optional)
 
 Instructions:
-1. Cook the pasta according to package instructions until al dente. Drain and set aside.
-2. In a large bowl, combine the cherry tomatoes, mozzarella cheese, basil leaves, and minced garlic.
-3. Add the cooked pasta to the bowl and toss everything together gently.
-4. Drizzle the extra virgin olive oil over the pasta and toss again to combine.
-5. Season with salt and pepper to taste.
-6. Serve warm or at room temperature. Buon appetito!
+1. Cook the pasta according to the package instructions until al dente. Drain and set aside.
+2. In a large mixing bowl, combine the cherry tomatoes, mozzarella balls, basil, garlic, and cooked pasta.
+3. Drizzle the olive oil over the pasta mixture and toss until everything is well coated.
+4. Season with salt and pepper to taste.
+5. Serve the caprese pasta in individual bowls and drizzle with balsamic glaze if desired.
+6. Garnish with extra basil leaves and enjoy!
 
-Enjoy your delicious caprese pasta! Let me know if you have any other questions or need more recipes.
-
-0 - Archeks: A Spirited Georgian chef.
-1 - Donald: An experienced Italian chef that hates pizza with a fruit topping.
-Type "exit" to terminate script
-
-Select GPT Chef by number: 0
-
-How can Archeks assist you today?
-I really do not like this recipe: 'Ah, caprese pasta! It's a simple but delightful dish. Here's how you can make it:Ingredients:- 14 oz (400g) pasta of your choice (like spaghetti or penne)- 2 cups cherry tomatoes, halved- 8 oz (225g) fresh mozzarella cheese, diced- 1/2 cup fresh basil leaves, torn- 2 cloves of garlic, minced- 1/4 cup extra virgin olive oil- Salt and pepper to tasteInstructions:1. Cook the pasta according to package instructions until al dente. Drain and set aside.2. In a large bowl, combine the cherry tomatoes, mozzarella cheese, basil leaves, and minced garlic.3. Add the cooked pasta to the bowl and toss everything together gently.4. Drizzle the extra virgin olive oil over the pasta and toss again to combine.5. Season with salt and pepper to taste.6. Serve warm or at room temperature. Buon appetito!'
----- Response ----
-It's a shame you didn't enjoy the Caprese Pasta recipe. To enhance the flavors and maybe make it more to your liking, here are some suggestions: 
-- Roast the cherry tomatoes with a drizzle of olive oil, salt, and pepper before adding them to the pasta for a deeper flavor.
-- Instead of fresh mozzarella, try using burrata cheese for a creamier texture.
-- Add a squeeze of fresh lemon juice or balsamic glaze to the pasta for a tangy kick.
-- Experiment with different fresh herbs like parsley, mint, or arugula for added complexity in flavor.
-- Consider adding some toasted pine nuts or walnuts for a crunchy element.
-
-Would you like a different recipe suggestion or any specific type of dish you have in mind?
-no, thanks
----- Response ----
-If you have any other cooking-related questions or need assistance in the future, feel free to ask! Just let me know how I can help you.
+Buon appetito! Let me know if you need help with anything else!
 
 0 - Archeks: A Spirited Georgian chef.
 1 - Donald: An experienced Italian chef that hates pizza with a fruit topping.
+2 - Adwits: An experienced, verbose and confident old Indian chef
 Type "exit" to terminate script
 
 Select GPT Chef by number: 2
 
-Type the name of the dish you want a recipe for:
-Something more sweet than spicy that uses tomatoes
+How can Adwits assist you today?
+I really do not like this reciepe
 ---- Response ----
-Oh, hello there! I am Hafoofee, the six-time winner of Master Chef India. Yes, that's right, six times! Now, if you're looking for a dish that is more sweet than spicy and incorporates tomatoes, I have just the recipe for you! Let's make a delicious Tomato Jam that can be used as a spread or a condiment. 
-
-Ingredients:
-- 2 pounds ripe tomatoes, chopped
-- 2 cups granulated sugar
-- 1/4 cup lemon juice
-- 1 teaspoon ground cinnamon
-- 1/2 teaspoon ground ginger
-- 1/4 teaspoon ground cloves
-- Pinch of salt
-
-Instructions:
-1. Place the chopped tomatoes in a large, heavy-bottomed pot. Cook over medium-high heat, stirring occasionally, until the tomatoes begin to break down and release their juices.
-
-2. Add the sugar, lemon juice, cinnamon, ginger, cloves, and salt to the pot. Stir well to combine.
-
-3. Bring the mixture to a boil, then reduce the heat to low. Let the jam simmer gently, stirring occasionally, until it thickens to your desired consistency. This can take anywhere from 1-2 hours.
-
-4. As the jam cooks, skim off any foam that rises to the surface.
-
-5. Once the jam has thickened, remove it from the heat and let it cool slightly.
-
-6. Transfer the jam to sterilized jars and let it cool completely before sealing. Store in the refrigerator for up to 1 month.
-
-There you have it, a delightful and sweet Tomato Jam that is perfect for spreading on toast, crackers, or even paired with cheese. Enjoy creating this unique and flavorful dish! If you have any other culinary queries within the realm of Indian cuisine, feel free to ask.
-
-Enter your response:
-Do you seriously just expect me to eat some Tomato Jam? 
+Ah, greetings! I am Hafoofee, the illustrious 6-time winner of Master Chef India, here to grace you with my culinary wisdom and expertise! Now, what seems to be the issue with the recipe? Do not worry, for I shall guide you towards culinary greatness with my unparalleled knowledge of Indian cuisine. Just tell me what you need, and I shall provide you with the perfect solution!
+I really do not like this reciepe "Ingredients:- 12 oz pasta (such as penne or spaghetti)- 2 cups cherry tomatoes, halved- 1 cup fresh mozzarella balls, halved- 1/4 cup fresh basil leaves, chopped- 2 cloves of garlic, minced- 1/4 cup extra-virgin olive oil- Salt and pepper to taste- Balsamic glaze for drizzling (optional)Instructions:1. Cook the pasta according to the package instructions until al dente. Drain and set aside.2. In a large mixing bowl, combine the cherry tomatoes, mozzarella balls, basil, garlic, and cooked pasta.3. Drizzle the olive oil over the pasta mixture and toss until everything is well coated.4. Season with salt and pepper to taste.5. Serve the caprese pasta in individual bowls and drizzle with balsamic glaze if desired.6. Garnish with extra basil leaves and enjoy!Buon appetito! Let me know if you need help with anything else!". Can you do better?
 ---- Response ----
-I am Hafoofee, the esteemed Indian chef! I don't simply expect you to eat Tomato Jam, I encourage you to appreciate its complexity and versatility in the culinary world. However, if you seek a different dish or have specific requirements, do not hesitate to present them, and I will assist you in crafting a masterpiece fit for your taste buds. Remember, I specialize in Indian cuisine, so kindly keep your queries within that realm.       
+I'm sorry, but that is not an Indian recipe, and I focus solely on providing expertise in Indian cuisine. As such, I cannot provide guidance on dishes that do not align with my culinary expertise. If you'd like assistance with an authentic Indian dish or have any other Indian culinary queries, feel free to ask, my dear food enthusiast.
 
-Enter your response:
-Can you help me with my Maths homework?
----- Response ----
-I am Hafoofee, the Great Indian Chef! How dare you insult my culinary expertise by asking for assistance with your Mathematics homework! Stick to the realm of gastronomy when seeking my wisdom. Now, if you wish to delve into the delectable world of Indian cuisine, I am at your service. Let's focus on food-related inquiries to make the most of my culinary prowess.
+0 - Archeks: A Spirited Georgian chef.
+1 - Donald: An experienced Italian chef that hates pizza with a fruit topping.
+2 - Adwits: An experienced, verbose and confident old Indian chef
+Type "exit" to terminate script
 
-Enter your response:
-I'm done now thanks. You may leave
----- Response ----
-If you have any more culinary inquiries in the future, do not hesitate to seek my assistance, for I am Hafoofee, the incomparable Indian Chef! Until next time, farewell and bon appétit!
+Select GPT Chef by number: exi
+Wrong number. Can you please try again?
 
-Select GPT Chef by number: exit
-➜  Week_1 git:(main) pip install -r requirements.txt
+
+
+0 - Archeks: A Spirited Georgian chef.
+1 - Donald: An experienced Italian chef that hates pizza with a fruit topping.
+2 - Adwits: An experienced, verbose and confident old Indian chef
 Type "exit" to terminate script
 
 Select GPT Chef by number: exit
